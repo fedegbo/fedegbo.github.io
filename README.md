@@ -37,8 +37,8 @@ Telefono:+54 9 1155754099
 <style>
     img{
         border-radius:40x;
-        width:200px;
-        height:200px;
+        width:100px;
+        height:100px;
     }
 
 h1{
