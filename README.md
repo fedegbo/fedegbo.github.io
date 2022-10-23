@@ -32,10 +32,8 @@ h3{
 <h1>Federico Gaston Blanco Ortiz</h1>
 
 <img src="images/fedegbo.ico">
-<br></br>
 
 <h3>Bienvenido!!! </h3>
-<br></br>
 <p>Soy <b><i>Federico Gaston Gaston Blanco Ortiz</i></b>, actualmente estoy estudiando ingeniería informática en la <strong><a href="https://www.uba.ar/" class="uba">Universidad de Buenos Aires(UBA)</a></strong>. En estos momentos me encuentro realizando cursos para poder especializarme como Full stack Developer.</p>
 
  <b class="b1">Tengo una gran curiosidad por el mundo tech desde hace muchísimo tiempo</b>
