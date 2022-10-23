@@ -1,32 +1,4 @@
-<style>
-    img{
-        border-radius:10px;
-    }
 
-h1{
-    text-align:center;
-    
-}
-
-h3{
-    color:lightblue;
-}
-
-.uba{
-    color:black;
-    background:#fff;
-    text-decoration:none;
-
-}
-
-.uba:hover{
-    color:green;
-    text-decoration:none;
-}
-
-
-
-</style>
 
 
 <h1>Federico Gaston Blanco Ortiz</h1>
@@ -62,3 +34,32 @@ Email: blancoortizgastonfederico@hotmail.com
 Telefono:+54 9 1155754099
 
 ~~~
+<style>
+    img{
+        border-radius:10px;
+    }
+
+h1{
+    text-align:center;
+    
+}
+
+h3{
+    color:lightblue;
+}
+
+.uba{
+    color:black;
+    background:#fff;
+    text-decoration:none;
+
+}
+
+.uba:hover{
+    color:green;
+    text-decoration:none;
+}
+
+
+
+</style>
