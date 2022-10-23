@@ -36,7 +36,7 @@ Telefono:+54 9 1155754099
 ~~~
 <style>
     img{
-        border-radius:40x;
+        border-radius:40px;
         width:100px;
         height:100px;
     }
