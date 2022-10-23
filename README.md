@@ -1,8 +1,3 @@
-<head>
- <title>Federico Gaston Blanco Ortiz</title>
- </head>
-
-
 <h1>Federico Gaston Blanco Ortiz</h1>
 
 <img src="images/fedegbo.ico">
