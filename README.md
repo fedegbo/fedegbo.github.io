@@ -15,6 +15,22 @@ CONOCIMIENTOS Front-End
 HTML(INTERMEDIO)
 CSS(INTERMEDIO)
 JAVASCRIPT(BÁSICO)
+
+~~~
+
+~~~
+IDIOMAS
+ESPAÑOL(NATIVO)
+INGLÉS(INTERMEDIO)
+
+~~~
+
+~~~
+Contacto
+Email: blancoortizgastonfederico@hotmail.com
+Telefono:+54 9 1155754099
+
+~~~
 <style>
     img{
         border-radius:40px;
@@ -42,23 +58,4 @@ h3{
     color:green;
     text-decoration:none;
 }
-
-
-
 </style>
-~~~
-
-~~~
-IDIOMAS
-ESPAÑOL(NATIVO)
-INGLÉS(INTERMEDIO)
-
-~~~
-
-~~~
-Contacto
-Email: blancoortizgastonfederico@hotmail.com
-Telefono:+54 9 1155754099
-
-~~~
-
