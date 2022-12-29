@@ -14,12 +14,13 @@ CONOCIMIENTOS Front-End
 
 HTML
 CSS
-JAVASCRIP
+JAVASCRIPT
 
 ~~~
 
 ~~~
 IDIOMAS
+
 ESPAÑOL
 INGLÉS
 
@@ -28,7 +29,7 @@ INGLÉS
 ~~~
 Contacto
 Email: blancoortizgastonfederico@hotmail.com
-Telefono:+54 9 113862-2107
+Telefono:+54 9 11 3862-2107
 
 ~~~
 
