@@ -1,5 +1,5 @@
 
-<img src="images/fedegbo.ico">
+<img style="img{width:550px; height:50px;}" src="images/fedegbo.ico">
 <h1>Federico Gaston Blanco Ortiz</h1>
 
 <h3>Bienvenido!!! </h3>
