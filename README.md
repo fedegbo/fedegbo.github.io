@@ -27,6 +27,14 @@ INGLÉS
 ~~~
 
 ~~~
+CONOCIMEINTOS BACKEND
+PYTHON
+GIT
+USO DE API REQUEST
+~~~
+
+
+~~~
 Contacto
 Email: blancoortizgastonfederico@hotmail.com
 Telefono:+54 9 11 3862-2107
