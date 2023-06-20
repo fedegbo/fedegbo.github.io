@@ -9,33 +9,8 @@
  <b class="b2">Soy un fanatico de la tecnología y de sus avances que tanto nos ayudan día a día para mejorar nuestro estilo de vida.</b>
 
 ~~~
-CONOCIMIENTOS Front-End
-
-HTML
-CSS
-JAVASCRIPT
-
-~~~
-
-~~~
-IDIOMAS
-
-ESPAÑOL
-INGLÉS
-
-~~~
-
-~~~
-CONOCIMEINTOS BACKEND
-PYTHON
-GIT
-USO DE API REQUEST
-~~~
-
-
-~~~
 Contacto
-Email: blancoortizgastonfederico@hotmail.com
+Email: fedegbortiz@gmail.com
 Telefono:+54 9 11 3862-2107
 
 ~~~
