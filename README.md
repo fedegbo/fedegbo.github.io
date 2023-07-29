@@ -8,9 +8,4 @@
 
  <b class="b2">Soy un fanatico de la tecnología y de sus avances que tanto nos ayudan día a día para mejorar nuestro estilo de vida.</b>
 
-~~~
-Contacto
-Email: fedegbortiz@gmail.com
-Telefono:+54 9 11 3862-2107
 
-~~~
