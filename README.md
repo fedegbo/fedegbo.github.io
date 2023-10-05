@@ -1,4 +1,4 @@
-<img src="images/fedegbo.ico" style="img{width:850px; height:900px;} img{border-radius:40px; width:100px;height:100px;}">
+<img src="images/fedegbo.ico" style="img{width:850px; height:900px;} img{border-radius:40px;}">
 <h1 style="h1{text-align:center};">Federico Gaston Blanco Ortiz</h1>
 
 <h3 style="h3{color:lightblue;}">Bienvenido!!!</h3>
