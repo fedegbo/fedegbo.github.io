@@ -1,3 +1,8 @@
+<head>
+<meta charset="UTF-8">
+ <link rel="stylesheet" href="https://avatars.githubusercontent.com/u/69217380?v=4">
+ 
+</head>
 <img src="images/fedegbo.ico">
 <h1 style="h1{text-align:center};">Federico Gaston Blanco Ortiz</h1>
 
